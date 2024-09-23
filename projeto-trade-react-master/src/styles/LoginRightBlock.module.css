@@ -1,0 +1,33 @@
+.rightBlock {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rightBlockContent {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 3rem;
+    color: #49613D;
+    font-weight: 500;
+}
+
+.input {
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #49613D;
+}
+
+.input:focus {    
+    border: 2px solid #CBC8C2;
+}

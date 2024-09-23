@@ -1,0 +1,14 @@
+.btnLogin {
+    background-image: linear-gradient(#68735A, #49613D);
+    border: none;
+    border-radius: 5px;
+    color: #F5F5F5;
+    font-size: 1rem;
+    font-weight: 600;
+    height: 35px;
+    cursor: pointer;
+}
+
+.btnLogin:hover {
+    background-image: linear-gradient(#49613D,#68735A);
+}

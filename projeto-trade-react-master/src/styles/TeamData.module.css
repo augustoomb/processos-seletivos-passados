@@ -1,0 +1,30 @@
+.section {
+    color: black;
+    width: 100vw;
+    padding: 20px;
+}
+
+h2 {
+    color: #49613D;
+    font-weight: bold;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.cardPlayer {
+    border: transparent;
+    border-radius: 8px;
+    height: 150px;
+    margin: 5px;
+    width: 200px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #81986e48;
+}

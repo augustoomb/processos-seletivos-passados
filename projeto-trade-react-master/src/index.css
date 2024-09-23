@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+
+  font-family: "Roboto";
+  box-sizing: border-box;
+  background-color: #F5F5F5;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto-Regular'), url(./fonts/Roboto-Regular.ttf) format('truetype');
+}
